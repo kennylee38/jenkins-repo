@@ -11,6 +11,7 @@ pipeline {
       steps {
         echo "This is a TEST stage step"
         echo "Just one more dummy step"
+        echo "One more, just in case"
       }
     }
     stage('Deploy') {
