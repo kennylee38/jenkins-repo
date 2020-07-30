@@ -19,6 +19,7 @@ pipeline {
       steps {
         echo "Drinking a coffee while the deploy runs"
         echo "Deploy is taking to long, ordering a pizza..."
+	echo "kenny ketty cat also here"
 	echo "kenny master was here, nobody could beat me!!"
         echo "This is a DEPLOY stage step"
         echo "hello everybody!"
