@@ -15,6 +15,7 @@ pipeline {
     }
     stage('Deploy') {
       steps {
+        echo "Drinking a coffee while the deploy runs"
         echo "This is a DEPLOY stage step"
       }
     }
