@@ -19,6 +19,7 @@ pipeline {
         echo "Drinking a coffee while the deploy runs"
         echo "Deploy is taking to long, ordering a pizza..."
         echo "This is a DEPLOY stage step"
+        echo "hello everybody!"
       }
     }
   }
